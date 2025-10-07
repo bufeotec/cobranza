@@ -1,0 +1,13 @@
+# Solo si están en la raíz del repo
+/.idea/
+/tmp/
+/log/
+/Git/
+
+# En cualquier nivel (subcarpetas incluidas)
+**/tmp/
+**/log/
+**/libs/ApiFacturacion/cdr/
+**/libs/ApiFacturacion/xml/
+**/libs/ApiFacturacion/imagenqr/
+**/media/documentos/pdf/

@@ -1,0 +1,17 @@
+{
+    "name": "michel/camaraloreto_nuevito",
+    "autoload": {
+        "psr-4": {
+            "Michel\\CamaraloretoNuevito\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "michelllatas",
+            "email": "cisnerosllatasmichel@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.1"
+    }
+}
